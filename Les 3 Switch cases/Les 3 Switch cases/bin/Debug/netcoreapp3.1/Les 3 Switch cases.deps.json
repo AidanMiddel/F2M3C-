@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Les 3 Switch cases/1.0.0": {
+        "runtime": {
+          "Les 3 Switch cases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Les 3 Switch cases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

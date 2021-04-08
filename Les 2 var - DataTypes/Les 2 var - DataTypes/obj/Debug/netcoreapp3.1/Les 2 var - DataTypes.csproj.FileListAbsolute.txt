@@ -1,0 +1,13 @@
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\bin\Debug\netcoreapp3.1\Les 2 var - DataTypes.exe
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\bin\Debug\netcoreapp3.1\Les 2 var - DataTypes.deps.json
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\bin\Debug\netcoreapp3.1\Les 2 var - DataTypes.runtimeconfig.json
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\bin\Debug\netcoreapp3.1\Les 2 var - DataTypes.runtimeconfig.dev.json
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\bin\Debug\netcoreapp3.1\Les 2 var - DataTypes.dll
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\bin\Debug\netcoreapp3.1\Les 2 var - DataTypes.pdb
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\obj\Debug\netcoreapp3.1\Les 2 var - DataTypes.csprojAssemblyReference.cache
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\obj\Debug\netcoreapp3.1\Les 2 var - DataTypes.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\obj\Debug\netcoreapp3.1\Les 2 var - DataTypes.AssemblyInfo.cs
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\obj\Debug\netcoreapp3.1\Les 2 var - DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\obj\Debug\netcoreapp3.1\Les 2 var - DataTypes.dll
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\obj\Debug\netcoreapp3.1\Les 2 var - DataTypes.pdb
+C:\Users\aidan\source\repos\Les 2 var - DataTypes\Les 2 var - DataTypes\obj\Debug\netcoreapp3.1\Les 2 var - DataTypes.genruntimeconfig.cache

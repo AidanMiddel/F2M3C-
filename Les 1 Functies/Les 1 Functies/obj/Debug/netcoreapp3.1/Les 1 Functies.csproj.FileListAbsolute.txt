@@ -1,0 +1,13 @@
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\obj\Debug\netcoreapp3.1\Les 1 Functies.csprojAssemblyReference.cache
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\obj\Debug\netcoreapp3.1\Les 1 Functies.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\obj\Debug\netcoreapp3.1\Les 1 Functies.AssemblyInfo.cs
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\obj\Debug\netcoreapp3.1\Les 1 Functies.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\bin\Debug\netcoreapp3.1\Les 1 Functies.exe
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\bin\Debug\netcoreapp3.1\Les 1 Functies.deps.json
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\bin\Debug\netcoreapp3.1\Les 1 Functies.runtimeconfig.json
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\bin\Debug\netcoreapp3.1\Les 1 Functies.runtimeconfig.dev.json
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\bin\Debug\netcoreapp3.1\Les 1 Functies.dll
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\bin\Debug\netcoreapp3.1\Les 1 Functies.pdb
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\obj\Debug\netcoreapp3.1\Les 1 Functies.dll
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\obj\Debug\netcoreapp3.1\Les 1 Functies.pdb
+C:\Users\aidan\source\repos\Les 1 Functies\Les 1 Functies\obj\Debug\netcoreapp3.1\Les 1 Functies.genruntimeconfig.cache

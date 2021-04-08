@@ -1,0 +1,13 @@
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\obj\Debug\netcoreapp3.1\Les 3 Switch cases.csprojAssemblyReference.cache
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\obj\Debug\netcoreapp3.1\Les 3 Switch cases.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\obj\Debug\netcoreapp3.1\Les 3 Switch cases.AssemblyInfo.cs
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\obj\Debug\netcoreapp3.1\Les 3 Switch cases.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\bin\Debug\netcoreapp3.1\Les 3 Switch cases.exe
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\bin\Debug\netcoreapp3.1\Les 3 Switch cases.deps.json
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\bin\Debug\netcoreapp3.1\Les 3 Switch cases.runtimeconfig.json
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\bin\Debug\netcoreapp3.1\Les 3 Switch cases.runtimeconfig.dev.json
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\bin\Debug\netcoreapp3.1\Les 3 Switch cases.dll
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\bin\Debug\netcoreapp3.1\Les 3 Switch cases.pdb
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\obj\Debug\netcoreapp3.1\Les 3 Switch cases.dll
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\obj\Debug\netcoreapp3.1\Les 3 Switch cases.pdb
+C:\Users\aidan\source\repos\Les 3 Switch cases\Les 3 Switch cases\obj\Debug\netcoreapp3.1\Les 3 Switch cases.genruntimeconfig.cache

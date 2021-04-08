@@ -1,0 +1,3 @@
+C:\Users\aidan\source\repos\Les 5 Method Scopes\Les 5 Method Scopes\obj\Debug\netcoreapp3.1\Les 5 Method Scopes.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\Les 5 Method Scopes\Les 5 Method Scopes\obj\Debug\netcoreapp3.1\Les 5 Method Scopes.AssemblyInfo.cs
+C:\Users\aidan\source\repos\Les 5 Method Scopes\Les 5 Method Scopes\obj\Debug\netcoreapp3.1\Les 5 Method Scopes.csproj.CoreCompileInputs.cache

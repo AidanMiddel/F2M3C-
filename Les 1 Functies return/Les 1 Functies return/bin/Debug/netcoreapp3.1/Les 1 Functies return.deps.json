@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Les 1 Functies return/1.0.0": {
+        "runtime": {
+          "Les 1 Functies return.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Les 1 Functies return/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
